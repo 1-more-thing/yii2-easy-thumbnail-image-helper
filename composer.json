@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "1-more-thing\\thumbnail\\": ""
+      "omt\\thumbnail\\": ""
     }
   }
 }

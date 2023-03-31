@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace himiklab\thumbnail;
+namespace omt\thumbnail;
 
 use yii\base\BaseObject;
 use yii\imagine\Image;
